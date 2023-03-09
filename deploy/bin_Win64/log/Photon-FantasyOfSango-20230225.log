@@ -1,0 +1,76 @@
+34076: 01:14:50.687 - Service is stopped...
+34076: 01:14:50.689 - Server shutting down...
+34076: 01:14:50.689 - Shutdown monitoring enabled, 30000ms before process abort
+34076: 01:14:50.708 - Notifying CLR applications of shutdown...
+34076: 01:14:50.708 - RequestApplicationStop: 3
+34076: 01:14:50.713 - RequestApplicationStop: 2
+34076: 01:14:50.715 - RequestStop: defalt app domain
+34076: 01:14:50.797 - Shutting down WebSocket Outbound Connection Manager...
+34076: 01:14:50.797 - Shutting down TCP Outbound Connection Manager...
+34076: 01:14:50.813 - Shutting down ENet Outbound Connection Manager...
+34076: 01:14:50.813 - Disconnecting all outbound peers...
+34076: 01:14:50.817 - Shutting down ENet host...
+34076: 01:14:50.817 - Disconnecting all peers...
+34076: 01:14:50.817 - Shutting down socket servers...
+34076: 01:14:50.817 - Shutting down ENet thread pool...
+34076: 01:14:50.818 - Shutting down TCP inactivity timers...
+34076: 01:14:50.818 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:843
+34076: 01:14:50.818 - OnShutdownCompleted: NativePolicy:0.0.0.0:843
+34076: 01:14:50.818 - WaitingForShutdownToComplete: NativePolicy:0.0.0.0:943
+34076: 01:14:50.818 - OnShutdownCompleted: NativePolicy:0.0.0.0:943
+34076: 01:14:50.818 - WaitingForShutdownToComplete: TCP:0.0.0.0:4530
+34076: 01:14:50.818 - OnShutdownCompleted: TCP:0.0.0.0:4530
+34076: 01:14:50.818 - WaitingForShutdownToComplete: UDP:127.0.0.1:5055
+34076: 01:14:50.818 - OnShutdownCompleted: UDP:127.0.0.1:5055
+34076: 01:14:50.818 - WaitingForShutdownToComplete: UDP:172.26.96.1:5055
+34076: 01:14:50.818 - OnShutdownCompleted: UDP:172.26.96.1:5055
+34076: 01:14:50.818 - WaitingForShutdownToComplete: UDP:172.27.48.1:5055
+34076: 01:14:50.818 - OnShutdownCompleted: UDP:172.27.48.1:5055
+34076: 01:14:50.818 - WaitingForShutdownToComplete: UDP:192.168.0.111:5055
+34076: 01:14:50.818 - OnShutdownCompleted: UDP:192.168.0.111:5055
+34076: 01:14:50.818 - WaitingForShutdownToComplete: WebSocket:0.0.0.0:9090
+34076: 01:14:50.818 - OnShutdownCompleted: WebSocket:0.0.0.0:9090
+34076: 01:14:50.829 - Shutting down CLR applications...
+34244: 01:14:50.830 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+34076: 01:14:50.831 - Shutting down business logic thread pool...
+34076: 01:14:50.831 - Shutting down I/O thread pool...
+34076: 01:14:50.831 - Destroying servers
+34076: 01:14:50.836 - Destroying WebSocket Outbound Connection Manager
+34076: 01:14:50.836 - Destroying TCP Outbound Connection Manager
+34076: 01:14:50.836 - Destroying TCP inactivity timer
+34076: 01:14:50.836 - Destroying ENet timer wheel
+34076: 01:14:50.836 - Destroying ENet host
+34076: 01:14:50.836 - Destroying ENet outbound host
+34076: 01:14:50.836 - Destroying HTTP inactivity timer
+34076: 01:14:50.836 - Destroying HTTP host
+34076: 01:14:50.836 - Destroying HTTP Chunk host
+34076: 01:14:50.836 - Flushing ENET buffer allocator...
+34076: 01:14:50.837 - Flushing TCP buffer handle allocator...
+34076: 01:14:50.837 - Flushing stream socket allocator...
+34076: 01:14:50.837 - Flushing inbound datagram socket allocator...
+34076: 01:14:50.838 - Flushing outbound datagram socket allocator...
+34076: 01:14:50.838 - Destroying CLR dispatcher
+34076: 01:14:50.838 - Destroying CLR applications
+34076: 01:14:50.839 - ~CCLRApplicationCollection() - Waiting up to 10 seconds for the CLR to release all of our objects
+20992: 01:14:50.840 - Unloading Domain: ApplicationName = 'CounterPublisher', DomainId='3'
+34244: 01:14:50.840 - CManagedHost::OnDomainUnload() - 3
+34244: 01:14:50.868 - CManagedHost::OnDefaultAction() - OPR_AppDomainUnload - eUnloadAppDomain
+20992: 01:14:50.871 - Unloading Domain: ApplicationName = 'SangoTest', DomainId='2'
+34244: 01:14:50.873 - CManagedHost::OnDomainUnload() - 2
+34076: 01:14:52.504 - ~CCLRApplicationCollection() - Done. All objects released
+34076: 01:14:52.504 - ~CManagedHost() - Release default app domain
+34076: 01:14:52.504 - CManagedHost::OnDomainUnload() - 1
+34076: 01:14:52.504 - ~CManagedHost() - Waiting up to 10 seconds for CLR shutdown...
+34076: 01:14:52.504 - ~CManagedHost
+34076: 01:14:52.527 - Destroying ENet thread pool
+34076: 01:14:52.527 - Destroying Business logic thread pool
+34076: 01:14:52.527 - Destroying I/O thread pool
+34076: 01:14:52.527 - Destroying ENet buffer allocator
+34076: 01:14:52.527 - Destroying TCP buffer allocator
+34076: 01:14:52.527 - Destroying TCP socket allocator
+34076: 01:14:52.528 - Destroying ENet inbound socket allocator
+34076: 01:14:52.528 - Destroying ENet outbound socket allocator
+34076: 01:14:52.528 - Destroying shared datagram flow control data
+34076: 01:14:52.529 - Shutdown complete...
+34076: 01:14:52.529 - Service shutting down
+34076: 01:14:52.532 - Service shut down complete

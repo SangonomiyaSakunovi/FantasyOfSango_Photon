@@ -1,0 +1,28 @@
+2023-02-15 00:24:43,794 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-15 00:24:43,821 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-15 00:24:43,821 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-15 19:44:41,704 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-15 19:44:41,716 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-15 19:44:41,716 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-15 19:44:44,744 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 19:45:09,059 [12] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-15 19:45:20,122 [10] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-15 19:47:24,142 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 19:48:49,315 [17] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 19:50:03,800 [17] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 19:51:16,777 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 19:56:15,698 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 20:02:43,095 [23] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 20:04:59,080 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 20:17:57,400 [13] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 20:25:07,581 [23] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 20:26:16,209 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 20:32:24,587 [20] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 20:32:31,734 [22] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 20:33:06,712 [17] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 21:50:06,224 [19] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 21:50:20,232 [13] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 21:51:57,157 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 21:53:19,276 [13] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 21:53:25,494 [20] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-15 22:54:49,760 [12] INFO  FantasyOfSango.SangoServer - New Client connected

@@ -1,0 +1,136 @@
+18608: 22:19:42.990 - ---
+18608: 22:19:42.990 - Service: "Photon Socket Server" starting
+18608: 22:19:42.990 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+18608: 22:19:42.991 - Will produce at most: 10 crash dumps
+18608: 22:19:42.992 - Action: run as exe
+18608: 22:19:42.992 - Server Starting...
+18608: 22:19:42.992 -    Tick count: 184801656 (wraps in: 47.5714 days)
+18608: 22:19:42.992 - Tick count 64: 184801656
+18608: 22:19:42.992 - Photon Version: 4.0.28.2962
+18608: 22:19:42.992 - PID: 31772
+18608: 22:19:42.992 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+18608: 22:19:42.992 - Will NOT log unimportant exceptions
+18608: 22:19:42.994 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+18608: 22:19:42.994 - Shutdown timeout enabled: 30000ms
+18608: 22:19:42.994 - Starting I/O thread pool with 2 threads
+18608: 22:19:42.994 - Using Standard allocator
+18608: 22:19:42.994 - Max message size: 512000
+18608: 22:19:42.994 - Starting business logic thread pool with the following settings
+18608: 22:19:42.994 - InitialThreads: 4 threads
+18608: 22:19:42.994 - MinThreads: 4 threads
+18608: 22:19:42.994 - Thread pool is fixed size
+18608: 22:19:42.994 - Starting ENet thread pool with the following settings
+18608: 22:19:42.994 - InitialThreads: 2 threads
+18608: 22:19:42.994 - MinThreads: 2 threads
+18608: 22:19:42.994 - Thread pool is fixed size
+18608: 22:19:42.994 - OnlyDispatchTimers: False
+18608: 22:19:42.994 - S2S: flow control: Max pending writes: 50
+18608: 22:19:42.994 - S2S: flow control: Max queued buffers: 200
+18608: 22:19:42.994 - S2S: flow control: Max pending writes MUX: 500
+18608: 22:19:42.994 - S2S: flow control: Max queued buffers MUX: 2000
+18608: 22:19:42.994 - S2S: MaxInboundMessageSize: 512000
+18608: 22:19:42.994 - S2S: MaxOutboundMessageSize: 512000
+18608: 22:19:42.994 - S2S: No inactivity timeout
+18608: 22:19:42.997 - WebSocket S2S: MaxInboundMessageSize: 512000
+18608: 22:19:42.997 - WebSocket S2S: MaxOutboundMessageSize: 512000
+18608: 22:19:42.997 - WebSocket S2S: No inactivity timeout
+18608: 22:19:42.998 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+18608: 22:19:42.998 - Per peer bandwidth limit
+18608: 22:19:42.998 - Transmit Rate Limit: 256 KB/Sec
+18608: 22:19:42.998 - Limit period: 200ms
+18608: 22:19:42.998 - Limit per period: 52428 bytes
+18608: 22:19:42.998 - Max queued data for transmission per peer: 512000 bytes
+18608: 22:19:42.998 - Minimum retransmit timeout: 200
+18608: 22:19:42.998 - No Maximum retransmit timeout
+18608: 22:19:42.998 - Minimum ENet timeout: 5000ms
+18608: 22:19:42.998 - Maximum ENet timeout: 30000ms
+18608: 22:19:42.998 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+18608: 22:19:42.998 - No RTT ACK adjustment timeout
+18608: 22:19:42.998 - Outbound ENet: MaxInboundMessageSize: 512000
+18608: 22:19:42.998 - Outbound ENet: MaxOutboundMessageSize: 512000
+18608: 22:19:42.999 - GetRuntime - About to load CLR - versions available:
+18608: 22:19:42.999 - v2.0.50727
+18608: 22:19:42.999 - v4.0.30319
+18608: 22:19:42.999 - Configuration requests: "v2.0.50727"
+18608: 22:19:42.999 - About to load version: "v2.0.50727"
+18608: 22:19:43.004 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+18608: 22:19:43.004 - CLRBaseDirectory set to "D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy"
+18608: 22:19:43.004 - Optimising event broadcast for 20 or more peers
+18608: 22:19:43.005 - Start: About to load CLR - versions available:
+18608: 22:19:43.005 - v2.0.50727
+18608: 22:19:43.005 - v4.0.30319
+18608: 22:19:43.005 - No preference in configuration file, will load latest.
+18608: 22:19:43.005 - About to load version: "v4.0.30319"
+18608: 22:19:43.006 - Loaded version: "v4.0.30319"
+18608: 22:19:43.116 - Photon host runtime loaded
+18608: 22:19:45.144 - License is valid.
+18608: 22:19:45.144 - Licensed for 100 concurrent connections.
+18608: 22:19:45.144 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+18608: 22:19:45.144 - ENet: Per peer bandwidth limit
+18608: 22:19:45.144 - ENet: Transmit Rate Limit: 256 KB/Sec
+18608: 22:19:45.144 - ENet: Limit period: 200ms
+18608: 22:19:45.144 - ENet: Limit per period: 52428 bytes
+18608: 22:19:45.144 - ENet: Max queued data for transmission per peer: 512000 bytes
+18608: 22:19:45.144 - ENet: Minimum retransmit timeout: 200
+18608: 22:19:45.144 - No Maximum retransmit timeout
+18608: 22:19:45.144 - ENet: Minimum timeout: 5000ms
+18608: 22:19:45.144 - ENet: Maximum timeout: 30000ms
+18608: 22:19:45.144 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+18608: 22:19:45.144 - No RTT ACK adjustment timeout
+18608: 22:19:45.144 - About to load application: MMoDemo from Photon.MmoDemo.Server
+18608: 22:19:45.144 - Auto restart is enabled for application, existing connections will be terminated during restart
+18608: 22:19:45.144 - Application will restart 1000ms after the last change detected
+18608: 22:19:45.144 - Application will restart if files matching the following are changed: "dll;config"
+18608: 22:19:45.144 - Application will NOT restart if files matching the following are changed: "log4net.config"
+18608: 22:19:45.173 - CService::OnException() - Exception: CManagedHost::CreateApplicationInNewAppDomain() - Failed to create new application domain for : "MMoDemo" - Can't find Photon.MmoDemo.Server.dll in  or D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\MmoDemo\bin
+18608: 22:19:45.173 - Server shutting down...
+18608: 22:19:45.173 - Shutdown monitoring enabled, 30000ms before process abort
+18608: 22:19:45.173 - Notifying CLR applications of shutdown...
+18608: 22:19:45.173 - RequestStop: defalt app domain
+18608: 22:19:45.174 - Shutting down WebSocket Outbound Connection Manager...
+18608: 22:19:45.174 - Shutting down TCP Outbound Connection Manager...
+18608: 22:19:45.174 - Shutting down ENet Outbound Connection Manager...
+18608: 22:19:45.174 - Disconnecting all outbound peers...
+18608: 22:19:45.174 - Shutting down ENet host...
+18608: 22:19:45.174 - Disconnecting all peers...
+18608: 22:19:45.174 - Shutting down socket servers...
+18608: 22:19:45.174 - Shutting down ENet thread pool...
+18608: 22:19:45.174 - Shutting down TCP inactivity timers...
+18608: 22:19:45.174 - Shutting down CLR applications...
+18608: 22:19:45.174 - Shutting down business logic thread pool...
+18608: 22:19:45.174 - Shutting down I/O thread pool...
+18608: 22:19:45.174 - Destroying servers
+18608: 22:19:45.174 - Destroying WebSocket Outbound Connection Manager
+18608: 22:19:45.174 - Destroying TCP Outbound Connection Manager
+18608: 22:19:45.174 - Destroying TCP inactivity timer
+18608: 22:19:45.174 - Destroying ENet timer wheel
+18608: 22:19:45.174 - Destroying ENet host
+18608: 22:19:45.174 - Destroying ENet outbound host
+18608: 22:19:45.174 - Destroying HTTP inactivity timer
+18608: 22:19:45.174 - Destroying HTTP host
+18608: 22:19:45.174 - Destroying HTTP Chunk host
+18608: 22:19:45.174 - Flushing ENET buffer allocator...
+18608: 22:19:45.174 - Flushing TCP buffer handle allocator...
+18608: 22:19:45.174 - Flushing stream socket allocator...
+18608: 22:19:45.174 - Flushing inbound datagram socket allocator...
+18608: 22:19:45.174 - Flushing outbound datagram socket allocator...
+18608: 22:19:45.174 - Destroying CLR dispatcher
+18608: 22:19:45.174 - Destroying CLR applications
+18608: 22:19:45.174 - ~CCLRApplicationCollection() - Waiting up to 10 seconds for the CLR to release all of our objects
+18608: 22:19:45.174 - ~CCLRApplicationCollection() - Done. All objects released
+18608: 22:19:45.174 - ~CManagedHost() - Release default app domain
+18608: 22:19:45.174 - CManagedHost::OnDomainUnload() - 1
+18608: 22:19:45.174 - ~CManagedHost() - Waiting up to 10 seconds for CLR shutdown...
+18608: 22:19:45.174 - ~CManagedHost
+18608: 22:19:45.174 - Destroying ENet thread pool
+18608: 22:19:45.174 - Destroying Business logic thread pool
+18608: 22:19:45.174 - Destroying I/O thread pool
+18608: 22:19:45.174 - Destroying ENet buffer allocator
+18608: 22:19:45.174 - Destroying TCP buffer allocator
+18608: 22:19:45.174 - Destroying TCP socket allocator
+18608: 22:19:45.174 - Destroying ENet inbound socket allocator
+18608: 22:19:45.174 - Destroying ENet outbound socket allocator
+18608: 22:19:45.174 - Destroying shared datagram flow control data
+18608: 22:19:45.174 - Shutdown complete...
+18608: 22:19:45.175 - Service shutting down
+18608: 22:19:45.175 - Service shut down complete

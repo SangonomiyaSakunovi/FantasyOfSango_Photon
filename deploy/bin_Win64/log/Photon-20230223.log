@@ -1,0 +1,12 @@
+42256: 01:03:17.257 - ---
+42256: 01:03:17.257 - Service: "Photon Socket Server" starting
+42256: 01:03:17.258 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+42256: 01:03:17.259 - Will produce at most: 10 crash dumps
+42256: 01:03:17.259 - Service shutting down
+42256: 01:03:17.261 - Service shut down complete
+28048: 18:11:01.573 - ---
+28048: 18:11:01.573 - Service: "Photon Socket Server" starting
+28048: 18:11:01.573 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+28048: 18:11:01.574 - Will produce at most: 10 crash dumps
+28048: 18:11:01.574 - Service shutting down
+28048: 18:11:01.576 - Service shut down complete

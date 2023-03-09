@@ -1,0 +1,101 @@
+2023-02-23 00:49:13,682 [21] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-23 00:54:17,416 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-23 00:54:32,458 [11] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-23 00:54:35,506 [22] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-23 00:54:35,528 [13] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 00:54:35,532 [20] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 00:54:35,538 [17] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 00:54:35,544 [16] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 00:54:35,548 [19] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 00:54:35,556 [22] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 00:54:36,133 [15] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 00:54:50,631 [21] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-23 01:01:50,445 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-23 01:01:55,566 [7] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-23 01:02:00,063 [16] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-23 01:02:00,096 [19] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 01:02:00,100 [15] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 01:02:00,104 [13] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 01:02:00,108 [17] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 01:02:00,112 [21] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 01:02:00,116 [22] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 01:02:00,119 [7] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 01:02:00,124 [14] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 01:02:00,129 [11] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 01:02:34,184 [21] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-23 01:03:17,280 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-23 01:03:17,284 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-23 01:03:17,284 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-23 17:56:46,135 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-23 17:56:46,153 [1] INFO  FantasyOfSango.SangoServer - Init all Component
+2023-02-23 17:56:46,153 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-23 17:56:51,887 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-23 17:57:16,088 [14] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-23 17:57:21,223 [11] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 17:57:21,252 [10] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 17:57:21,252 [10] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 17:57:21,252 [10] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 17:57:21,252 [10] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 17:57:21,252 [10] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 17:57:21,252 [10] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 17:57:21,254 [14] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 17:57:21,261 [12] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 17:57:21,265 [15] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 17:57:21,270 [14] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 17:57:21,276 [12] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 17:57:27,288 [14] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 17:57:35,750 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-23 17:57:55,558 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-23 17:57:58,209 [15] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-23 17:57:58,258 [14] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 17:57:58,263 [13] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 17:57:58,267 [19] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 17:57:58,273 [10] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 17:57:58,279 [12] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 17:57:58,801 [11] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 18:10:19,986 [21] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-23 18:11:01,791 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-23 18:11:01,795 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-23 18:11:01,795 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-23 18:11:21,622 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-23 18:11:21,635 [1] INFO  FantasyOfSango.SangoServer - Init all Component
+2023-02-23 18:11:21,636 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-23 18:11:27,117 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-23 18:11:31,547 [10] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-23 18:11:36,204 [13] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 18:11:36,209 [13] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 18:11:36,212 [10] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 18:11:36,216 [14] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 18:11:36,219 [12] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 18:11:36,223 [15] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 18:11:36,229 [11] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 18:11:36,739 [12] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 18:11:42,911 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-23 18:11:51,257 [13] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-23 18:11:53,899 [13] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-23 18:11:53,933 [19] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 18:11:53,938 [15] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 18:11:53,943 [17] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 18:11:53,948 [20] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 18:11:53,953 [13] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 18:11:53,959 [18] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 18:11:54,454 [8] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 18:11:58,251 [15] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-23 19:48:09,626 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-23 19:48:13,615 [8] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-23 19:48:13,687 [21] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 19:48:13,710 [21] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 19:48:13,710 [21] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 19:48:13,711 [18] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 19:48:13,719 [19] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 19:48:13,727 [13] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 19:48:13,736 [10] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 19:48:13,745 [20] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 19:48:50,291 [18] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-23 19:48:57,591 [18] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-23 19:49:17,826 [19] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-23 19:49:17,871 [4] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 19:49:17,880 [10] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 19:49:17,890 [17] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 19:49:17,901 [15] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-23 19:50:21,225 [17] INFO  FantasyOfSango.SangoServer - The Client is DisConnect

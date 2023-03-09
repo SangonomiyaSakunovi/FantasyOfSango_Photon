@@ -1,0 +1,12 @@
+27268: 01:01:56.868 - ---
+27268: 01:01:56.868 - Service: "Photon Socket Server" starting
+27268: 01:01:56.868 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+27268: 01:01:56.869 - Will produce at most: 10 crash dumps
+27268: 01:01:56.870 - Service shutting down
+27268: 01:01:56.875 - Service shut down complete
+32672: 22:14:57.821 - ---
+32672: 22:14:57.821 - Service: "Photon Socket Server" starting
+32672: 22:14:57.821 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+32672: 22:14:57.823 - Will produce at most: 10 crash dumps
+32672: 22:14:57.823 - Service shutting down
+32672: 22:14:57.823 - Service shut down complete

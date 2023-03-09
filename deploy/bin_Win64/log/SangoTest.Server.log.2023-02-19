@@ -1,0 +1,250 @@
+2023-02-19 17:11:10,238 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-19 17:11:10,247 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-19 17:11:10,248 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-19 17:12:10,649 [13] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 17:12:14,988 [12] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 17:13:40,194 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 17:14:33,799 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 17:14:37,912 [10] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 17:14:47,130 [13] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 17:15:09,756 [20] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 17:15:13,074 [18] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 17:15:17,648 [20] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 17:15:20,649 [13] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 17:15:48,144 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 17:34:08,889 [9] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 17:34:43,726 [11] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 17:42:28,045 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-19 17:42:28,049 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-19 17:42:28,049 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-19 17:42:45,984 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-19 17:42:45,995 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-19 17:42:45,996 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-19 17:43:15,554 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 17:43:23,841 [12] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 17:43:59,234 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 17:57:28,262 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 17:58:17,854 [13] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 17:59:02,052 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 17:59:06,483 [15] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 17:59:12,366 [17] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 17:59:15,014 [4] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 17:59:19,012 [18] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 17:59:21,825 [15] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 17:59:24,418 [13] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 18:00:36,434 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 18:01:26,748 [17] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 18:02:39,662 [11] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 18:08:05,809 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 18:08:21,520 [11] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-19 18:09:26,130 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 18:09:54,964 [17] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 18:09:57,968 [15] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 18:10:02,343 [13] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-19 18:10:07,954 [8] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-19 18:10:13,420 [12] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-19 18:10:46,014 [14] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 18:13:22,497 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 18:13:56,424 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 18:13:59,399 [13] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 18:14:00,745 [12] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 18:14:07,197 [12] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-19 18:14:10,340 [13] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-19 18:14:17,239 [14] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 18:14:23,457 [12] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 18:14:54,003 [17] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 18:17:17,470 [17] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 18:17:46,623 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 18:17:50,556 [17] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 18:17:57,414 [4] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 18:17:57,949 [18] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-19 18:18:02,379 [4] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 18:18:33,513 [18] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 18:56:36,622 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 18:56:36,706 [11] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 18:57:25,943 [4] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 18:59:08,369 [19] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 18:59:08,433 [17] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 18:59:38,183 [19] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 19:00:02,223 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 19:00:02,303 [4] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:00:17,180 [11] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:00:24,956 [17] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 19:00:25,063 [12] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:00:47,273 [13] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 19:00:56,907 [11] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 19:02:42,564 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 19:02:42,674 [10] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:02:53,736 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 19:02:53,802 [15] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:03:17,332 [18] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 19:03:31,055 [18] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 19:04:03,750 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 19:04:08,093 [6] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:04:12,294 [13] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:04:18,895 [15] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:04:21,453 [12] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:05:14,738 [10] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 19:05:16,705 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 19:05:20,585 [10] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:05:37,998 [18] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 19:05:48,348 [4] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:05:54,931 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 19:05:55,013 [10] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:06:01,211 [18] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 19:06:13,251 [8] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:06:17,549 [13] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 19:06:20,103 [19] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 19:06:25,063 [17] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:06:33,262 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 19:06:44,428 [8] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 19:06:57,744 [18] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 19:07:08,241 [13] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 19:41:35,090 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 19:41:38,033 [10] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:42:08,773 [18] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 19:42:52,092 [6] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 19:42:56,396 [12] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:43:05,326 [15] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:43:06,040 [6] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:43:06,909 [8] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:43:19,748 [6] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:43:49,278 [17] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 19:43:55,425 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 19:43:57,909 [8] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:43:58,914 [17] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:43:59,305 [15] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:43:59,507 [11] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:43:59,679 [14] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:43:59,845 [4] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:43:59,988 [19] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:44:00,655 [18] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:44:01,150 [8] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:44:01,766 [17] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:44:03,893 [12] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:44:04,532 [19] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:44:14,636 [6] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:44:31,643 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 19:44:34,158 [15] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:44:36,946 [10] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:44:43,805 [4] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 19:45:08,603 [13] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 19:50:28,494 [6] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 19:50:31,638 [4] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:50:34,251 [13] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:50:43,583 [8] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 19:50:45,943 [15] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:50:52,691 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 19:50:54,838 [4] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:50:59,062 [11] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-19 19:51:03,914 [11] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:51:07,761 [19] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-19 19:51:10,033 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 19:51:16,783 [8] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 19:51:39,252 [8] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 19:53:49,076 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 19:53:52,328 [8] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 19:54:24,120 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 20:00:42,616 [22] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-19 20:00:42,617 [22] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-19 20:00:42,617 [22] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-19 20:00:55,524 [22] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-19 20:00:55,534 [22] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-19 20:00:55,534 [22] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-19 20:01:18,017 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-19 20:01:18,048 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-19 20:01:18,048 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-19 20:01:42,903 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-19 20:01:42,913 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-19 20:01:42,914 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-19 20:02:00,101 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 20:02:05,647 [14] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 20:02:17,033 [13] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-19 20:02:21,583 [17] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 20:02:24,495 [23] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 20:02:55,018 [18] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 20:03:29,350 [22] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 20:03:38,442 [12] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-19 20:03:43,376 [20] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 20:03:50,565 [19] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 20:03:50,653 [12] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 20:04:13,343 [22] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 20:04:24,513 [23] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 20:05:02,172 [23] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 20:05:11,535 [13] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 20:05:18,213 [19] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 20:05:18,322 [11] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 20:05:23,208 [10] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 20:05:29,841 [18] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 20:05:40,493 [10] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 20:05:53,948 [21] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 20:06:04,836 [22] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 20:12:04,805 [19] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 20:23:28,051 [21] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 20:23:57,559 [22] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 20:28:05,955 [22] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 20:28:08,782 [11] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 20:28:50,391 [20] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 20:28:55,036 [21] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 20:29:00,244 [20] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 21:43:47,753 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-19 21:43:47,768 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-19 21:43:47,768 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-19 21:44:05,517 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-19 21:44:05,528 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-19 21:44:05,529 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-19 21:44:09,787 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 21:44:13,130 [10] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 21:44:21,208 [10] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 21:44:23,297 [10] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 21:44:25,991 [18] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 21:44:36,160 [13] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 21:44:37,662 [20] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 21:44:39,916 [15] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 22:03:12,636 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 22:03:22,312 [11] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 22:03:27,538 [11] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 22:03:30,102 [12] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 22:03:32,193 [21] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 22:19:19,947 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-19 22:19:19,951 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-19 22:19:19,951 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-19 22:20:44,106 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-19 22:20:44,116 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-19 22:20:44,117 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-19 22:21:14,707 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 22:21:26,258 [15] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 22:21:33,382 [12] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 22:21:33,401 [12] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:58375, Data: F3-02-01-00-02-00-73-00-01-61-01-73-00-01-61,
+Exception:System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at FantasyOfSango.Cache.OnlineAccountCache.AddOnlineAccount(String account, ClientPeer peer, PlayerDataCache playerDataCache) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Cache\OnlineAccountCache.cs:line 35
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 41
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 39
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-19 22:21:39,694 [23] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 22:23:58,885 [17] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 22:24:25,453 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-19 22:24:25,456 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-19 22:24:25,456 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-19 22:24:41,191 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-19 22:24:41,202 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-19 22:24:41,203 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-19 22:24:53,918 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 22:24:57,014 [14] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 22:25:04,287 [10] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 22:25:53,810 [15] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-19 22:39:05,058 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-19 22:39:05,060 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-19 22:39:05,060 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-19 22:40:59,192 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-19 22:40:59,203 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-19 22:40:59,203 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-19 22:41:06,822 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-19 22:41:10,403 [14] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 22:41:33,055 [13] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 22:42:45,693 [14] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 22:42:49,009 [9] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-19 22:42:51,082 [17] INFO  FantasyOfSango.SangoServer - The Client is DisConnect

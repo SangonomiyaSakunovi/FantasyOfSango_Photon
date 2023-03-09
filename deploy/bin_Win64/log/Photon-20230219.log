@@ -1,0 +1,36 @@
+17968: 17:42:27.962 - ---
+17968: 17:42:27.962 - Service: "Photon Socket Server" starting
+17968: 17:42:27.962 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+17968: 17:42:27.964 - Will produce at most: 10 crash dumps
+17968: 17:42:27.964 - Service shutting down
+17968: 17:42:27.966 - Service shut down complete
+5444: 20:01:18.015 - ---
+5444: 20:01:18.016 - Service: "Photon Socket Server" starting
+5444: 20:01:18.016 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+5444: 20:01:18.018 - Will produce at most: 10 crash dumps
+5444: 20:01:18.018 - Service shutting down
+5444: 20:01:18.019 - Service shut down complete
+22452: 21:43:47.738 - ---
+22452: 21:43:47.738 - Service: "Photon Socket Server" starting
+22452: 21:43:47.738 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+22452: 21:43:47.740 - Will produce at most: 10 crash dumps
+22452: 21:43:47.740 - Service shutting down
+22452: 21:43:47.741 - Service shut down complete
+30252: 22:19:19.942 - ---
+30252: 22:19:19.942 - Service: "Photon Socket Server" starting
+30252: 22:19:19.942 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+30252: 22:19:19.944 - Will produce at most: 10 crash dumps
+30252: 22:19:19.944 - Service shutting down
+30252: 22:19:19.950 - Service shut down complete
+43416: 22:24:25.453 - ---
+43416: 22:24:25.453 - Service: "Photon Socket Server" starting
+43416: 22:24:25.453 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+43416: 22:24:25.455 - Will produce at most: 10 crash dumps
+43416: 22:24:25.455 - Service shutting down
+43416: 22:24:25.456 - Service shut down complete
+29792: 22:39:05.055 - ---
+29792: 22:39:05.055 - Service: "Photon Socket Server" starting
+29792: 22:39:05.056 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\bin_Win64\PhotonServer.config
+29792: 22:39:05.058 - Will produce at most: 10 crash dumps
+29792: 22:39:05.058 - Service shutting down
+29792: 22:39:05.062 - Service shut down complete

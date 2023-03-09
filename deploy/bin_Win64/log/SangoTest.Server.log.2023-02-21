@@ -1,0 +1,228 @@
+2023-02-21 00:08:58,032 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 00:09:33,699 [10] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 00:09:46,986 [12] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 00:09:56,768 [17] INFO  FantasyOfSango.SangoServer - The handler is Register
+2023-02-21 00:10:02,585 [21] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 00:10:05,595 [15] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 00:10:12,554 [11] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 00:10:19,137 [9] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 00:10:33,107 [16] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 00:10:36,030 [15] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 00:10:42,787 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 00:10:43,134 [9] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 00:10:46,120 [11] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 00:10:57,999 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-21 00:10:58,023 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-21 00:10:58,023 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-21 13:46:32,593 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-21 13:46:32,614 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-21 13:46:32,616 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-21 13:46:37,669 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 13:46:37,924 [13] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 13:46:54,319 [14] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 13:46:56,856 [14] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 13:47:04,556 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 13:47:06,455 [13] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 16:47:39,464 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 16:47:44,302 [14] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 17:09:14,282 [18] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 17:09:16,738 [11] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 17:09:22,894 [19] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 17:09:40,252 [15] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 17:10:34,332 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 17:10:43,164 [18] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 17:10:45,882 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 17:36:45,411 [20] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 17:37:15,438 [14] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 17:37:27,192 [21] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 17:43:22,233 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 17:43:26,003 [11] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 17:43:48,338 [19] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 17:45:02,175 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 17:45:06,694 [20] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 17:45:14,393 [14] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 17:45:19,611 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-21 17:45:19,694 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-21 17:45:19,694 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-21 17:45:32,772 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-21 17:45:32,784 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-21 17:45:32,784 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-21 17:45:35,859 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 17:45:39,978 [11] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 17:46:12,002 [15] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 18:50:04,490 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 18:50:10,106 [7] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 18:51:31,616 [9] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 22:22:43,657 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-21 22:22:43,665 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-21 22:22:43,665 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-21 22:23:18,715 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-21 22:23:18,728 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-21 22:23:18,729 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-21 22:23:26,800 [13] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 22:23:39,037 [14] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 22:24:34,984 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 22:24:43,998 [11] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 22:24:48,230 [10] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-21 22:24:48,230 [10] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:56003, Data: F3-02-03-00-00,
+Exception:System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   at System.Collections.Generic.Dictionary`2.TryGetValue(TKey key, TValue& value)
+   at Common.Tools.DictTools.GetDictValue[T_Key,T_Value](Dictionary`2 dict, T_Key key)
+   at FantasyOfSango.Cache.OnlineAccountCache.GetOnlineAccount(String account) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Cache\OnlineAccountCache.cs:line 41
+   at FantasyOfSango.Handler.SyncPlayerDataHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\SyncPlayerDataHandler.cs:line 30
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 40
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-21 22:25:38,614 [11] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 22:25:43,920 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-21 22:25:43,931 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-21 22:25:43,931 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-21 22:30:44,735 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-21 22:30:44,748 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-21 22:30:44,749 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-21 22:30:53,227 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 22:30:55,906 [14] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 22:30:58,657 [12] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-21 22:30:58,658 [12] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:60576, Data: F3-02-03-00-00,
+Exception:System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   at System.Collections.Generic.Dictionary`2.TryGetValue(TKey key, TValue& value)
+   at Common.Tools.DictTools.GetDictValue[T_Key,T_Value](Dictionary`2 dict, T_Key key)
+   at FantasyOfSango.Cache.OnlineAccountCache.GetOnlineAccount(String account) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Cache\OnlineAccountCache.cs:line 41
+   at FantasyOfSango.Handler.SyncPlayerDataHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\SyncPlayerDataHandler.cs:line 30
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 40
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-21 22:31:42,433 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-21 22:31:42,436 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 22:31:42,438 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-21 22:31:42,438 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-21 22:38:31,839 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-21 22:38:31,850 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-21 22:38:31,851 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-21 22:38:41,332 [7] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 22:38:44,763 [12] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 22:38:46,644 [11] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-21 22:38:46,644 [11] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:62583, Data: F3-02-03-00-00,
+Exception:System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   at System.Collections.Generic.Dictionary`2.TryGetValue(TKey key, TValue& value)
+   at Common.Tools.DictTools.GetDictValue[T_Key,T_Value](Dictionary`2 dict, T_Key key)
+   at FantasyOfSango.Cache.OnlineAccountCache.GetOnlineAccount(String account) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Cache\OnlineAccountCache.cs:line 41
+   at FantasyOfSango.Handler.SyncPlayerDataHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\SyncPlayerDataHandler.cs:line 30
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 40
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-21 22:39:20,303 [7] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 22:40:33,306 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 22:40:37,802 [13] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 22:40:38,187 [11] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-21 22:40:38,190 [11] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:1,ip:127.0.0.1:50711, Data: F3-02-03-00-01-00-73-00-02-61-62,
+Exception:System.IO.InvalidDataException: cannot serialize(): FantasyOfSango.Data.PlayerDataCache
+   at Photon.SocketServer.Rpc.Protocols.GpBinaryByte.GpBinaryByteWriter.Write(IBinaryWriter writer, Object value, Boolean setType, CustomTypeCache privateCustomTypeCache, Int32 depth)
+   at Photon.SocketServer.Rpc.Protocols.GpBinaryByte.GpBinaryByteWriter.WriteOperationResponse(IBinaryWriter writer, OperationResponse operationResponse, CustomTypeCache privateCustomTypeCache)
+   at Photon.SocketServer.Rpc.Protocols.GpBinaryByte.GpBinaryByteProtocolV16.SerializeOperationResponse(OperationResponse operationResponse, RtsMessageType messageType, CustomTypeCache privateCustomTypeCache)
+   at Photon.SocketServer.PeerBase.SendOperationResponse(OperationResponse operationResponse, SendParameters sendParameters)
+   at FantasyOfSango.Handler.SyncPlayerDataHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\SyncPlayerDataHandler.cs:line 35
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 40
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-21 22:41:29,141 [13] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 22:56:12,135 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-21 22:56:12,138 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-21 22:56:12,138 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-21 23:02:28,536 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-21 23:02:28,548 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-21 23:02:28,548 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-21 23:03:13,853 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 23:03:23,610 [13] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 23:03:26,070 [7] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-21 23:03:26,072 [7] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:54928, Data: F3-02-03-00-01-00-73-00-01-61,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at FantasyOfSango.Handler.SyncPlayerDataHandler.SetPlayerWeaponDataCacheToList(PlayerDataCache playerDataCache) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\SyncPlayerDataHandler.cs:line 46
+   at FantasyOfSango.Handler.SyncPlayerDataHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\SyncPlayerDataHandler.cs:line 35
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 40
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-21 23:10:12,015 [13] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 23:10:17,273 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-21 23:10:17,288 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-21 23:10:17,288 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-21 23:29:28,067 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-21 23:29:28,078 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-21 23:29:28,079 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-21 23:29:35,507 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 23:29:38,159 [11] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 23:29:41,220 [10] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-21 23:29:41,221 [10] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:59300, Data: F3-02-03-00-01-00-73-00-01-61,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at FantasyOfSango.Handler.SyncPlayerDataHandler.SetPlayerWeaponByte(PlayerDataCache playerDataCache) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\SyncPlayerDataHandler.cs:line 53
+   at FantasyOfSango.Handler.SyncPlayerDataHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\SyncPlayerDataHandler.cs:line 36
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 40
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-21 23:30:26,955 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 23:42:54,469 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-21 23:42:54,472 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-21 23:42:54,472 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-21 23:45:57,390 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-21 23:45:57,401 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-21 23:45:57,401 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-21 23:46:10,921 [7] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 23:46:15,037 [13] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 23:46:17,566 [13] INFO  FantasyOfSango.SangoServer - 运行到取出playerdata到cache
+2023-02-21 23:46:17,594 [7] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-21 23:46:17,594 [7] INFO  FantasyOfSango.SangoServer - 运行到从cache取出数据
+2023-02-21 23:46:17,595 [7] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:56253, Data: F3-02-03-00-01-00-73-00-01-61,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at FantasyOfSango.Handler.SyncPlayerDataHandler.SetPlayerWeaponByte(PlayerDataCache playerDataCache) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\SyncPlayerDataHandler.cs:line 54
+   at FantasyOfSango.Handler.SyncPlayerDataHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\SyncPlayerDataHandler.cs:line 36
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 40
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-21 23:46:52,008 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 23:47:21,138 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-21 23:47:21,144 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-21 23:47:21,144 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-21 23:50:31,842 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-21 23:50:31,853 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-21 23:50:31,854 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-21 23:50:38,441 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 23:50:40,958 [15] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 23:50:43,653 [15] INFO  FantasyOfSango.SangoServer - 1
+2023-02-21 23:50:43,653 [15] INFO  FantasyOfSango.SangoServer - 
+2023-02-21 23:50:43,653 [15] INFO  FantasyOfSango.SangoServer - 运行到取出playerdata到cache
+2023-02-21 23:50:43,690 [7] INFO  FantasyOfSango.SangoServer - The handler is SyncPlayerData
+2023-02-21 23:50:43,691 [7] INFO  FantasyOfSango.SangoServer - 运行到从cache取出数据
+2023-02-21 23:50:43,691 [7] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:54884, Data: F3-02-03-00-01-00-73-00-01-61,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at FantasyOfSango.Handler.SyncPlayerDataHandler.SetPlayerWeaponByte(PlayerDataCache playerDataCache) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\SyncPlayerDataHandler.cs:line 54
+   at FantasyOfSango.Handler.SyncPlayerDataHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\SyncPlayerDataHandler.cs:line 36
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 40
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-02-21 23:51:03,562 [13] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-02-21 23:53:44,001 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-02-21 23:53:44,006 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-02-21 23:53:44,006 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-02-21 23:53:59,090 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-02-21 23:53:59,101 [1] INFO  FantasyOfSango.SangoServer - Handler is Initiate
+2023-02-21 23:53:59,102 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-02-21 23:54:10,157 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-02-21 23:54:11,971 [12] INFO  FantasyOfSango.SangoServer - The handler is Login
+2023-02-21 23:54:14,952 [12] INFO  FantasyOfSango.SangoServer - 1
+2023-02-21 23:54:14,952 [12] INFO  FantasyOfSango.SangoServer - 
+2023-02-21 23:54:14,952 [12] INFO  FantasyOfSango.SangoServer - PlayerData.Player
+2023-02-21 23:54:14,953 [12] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:64578, Data: F3-02-01-00-02-00-73-00-01-61-01-73-00-01-61,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at FantasyOfSango.Handler.LoginHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\LoginHandler.cs:line 39
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 40
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
