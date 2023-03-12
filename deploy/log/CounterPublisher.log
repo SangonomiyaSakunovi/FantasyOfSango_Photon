@@ -420,3 +420,55 @@
 2023-03-08 22:52:38,032 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
 2023-03-09 00:31:56,414 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=CounterPublisher
 2023-03-09 00:31:56,437 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=CounterPublisher
+2023-03-09 13:29:27,703 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=CounterPublisher; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2023-03-09 13:29:27,718 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-03-09 19:16:47,874 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=CounterPublisher
+2023-03-09 19:16:47,888 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=CounterPublisher
+2023-03-09 19:17:06,130 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=CounterPublisher; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2023-03-09 19:17:06,160 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-03-09 21:21:42,900 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=CounterPublisher
+2023-03-09 21:21:42,906 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=CounterPublisher
+2023-03-09 21:24:57,639 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=CounterPublisher; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2023-03-09 21:24:57,656 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-03-09 21:25:57,084 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=CounterPublisher
+2023-03-09 21:25:57,089 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=CounterPublisher
+2023-03-10 00:01:40,284 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=CounterPublisher; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2023-03-10 00:01:40,301 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-03-10 00:14:21,391 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=CounterPublisher
+2023-03-10 00:14:21,394 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=CounterPublisher
+2023-03-10 00:23:19,978 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=CounterPublisher; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2023-03-10 00:23:19,994 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-03-10 01:40:03,436 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=CounterPublisher
+2023-03-10 01:40:03,442 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=CounterPublisher
+2023-03-10 01:40:13,063 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=CounterPublisher; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2023-03-10 01:40:13,079 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-03-10 01:56:40,133 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=CounterPublisher
+2023-03-10 01:56:40,136 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=CounterPublisher
+2023-03-10 01:57:06,719 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=CounterPublisher; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2023-03-10 01:57:06,738 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-03-10 01:59:01,545 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=CounterPublisher
+2023-03-10 01:59:01,548 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=CounterPublisher
+2023-03-10 01:59:34,783 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=CounterPublisher; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2023-03-10 01:59:34,799 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-03-10 02:37:09,167 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=CounterPublisher
+2023-03-10 02:37:09,174 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=CounterPublisher
+2023-03-10 13:07:18,503 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=CounterPublisher; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2023-03-10 13:07:18,535 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-03-10 15:35:08,948 [14] WARN  ExitGames.Diagnostics.Monitoring.Protocol.PhotonBinaryWriterBase - SendData: Publishing counter data failed for the 0 time: An invalid argument was supplied
+2023-03-10 15:35:08,953 [14] WARN  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher stopped working because of a network loss
+2023-03-10 17:40:51,336 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=CounterPublisher
+2023-03-10 17:40:51,516 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=CounterPublisher
+2023-03-10 17:41:12,734 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=CounterPublisher; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2023-03-10 17:41:12,751 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-03-10 18:07:48,562 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=CounterPublisher
+2023-03-10 18:07:48,567 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=CounterPublisher
+2023-03-10 18:08:04,754 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=CounterPublisher; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2023-03-10 18:08:04,771 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-03-10 18:15:28,624 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=CounterPublisher
+2023-03-10 18:15:28,628 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=CounterPublisher
+2023-03-11 17:02:56,141 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=CounterPublisher; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2023-03-11 17:02:56,164 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-03-12 20:07:40,730 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=CounterPublisher; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2023-03-12 20:07:40,763 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-03-12 20:29:01,991 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=CounterPublisher
+2023-03-12 20:29:02,041 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=CounterPublisher

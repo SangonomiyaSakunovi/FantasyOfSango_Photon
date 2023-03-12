@@ -1,0 +1,47 @@
+2023-03-11 17:02:56,338 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-03-11 17:02:56,350 [1] INFO  FantasyOfSango.SangoServer - Init all Component
+2023-03-11 17:02:56,350 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-03-11 17:19:54,363 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 17:20:48,353 [13] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 17:22:52,626 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 17:23:04,538 [7] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 17:24:41,472 [20] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 17:24:49,964 [7] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 17:28:39,522 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 17:28:48,159 [17] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 17:31:42,012 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 17:32:38,292 [20] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 17:35:08,466 [6] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 17:36:06,922 [20] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 17:36:38,304 [17] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 17:37:32,885 [6] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 17:38:30,797 [13] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 17:39:30,505 [11] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 17:40:28,174 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 17:41:36,816 [19] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 17:47:22,185 [4] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 17:49:49,180 [7] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 17:53:23,441 [7] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 18:12:39,357 [22] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 19:31:35,102 [17] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 19:32:19,041 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 19:33:06,355 [6] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 19:33:41,141 [13] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 19:44:11,234 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 19:44:56,349 [13] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 19:46:38,563 [6] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 19:46:45,128 [11] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 19:49:07,883 [21] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 19:49:33,583 [17] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 19:50:21,267 [20] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 19:51:01,834 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 19:52:55,733 [20] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 19:53:15,868 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 19:55:36,266 [21] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 20:00:14,520 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 20:03:33,635 [11] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 20:04:17,607 [22] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 20:05:42,297 [6] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 20:06:11,734 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-11 20:06:46,812 [21] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-11 20:09:27,230 [20] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
