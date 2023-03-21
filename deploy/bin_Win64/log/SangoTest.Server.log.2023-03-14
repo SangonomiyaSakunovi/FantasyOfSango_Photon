@@ -1,0 +1,138 @@
+2023-03-14 00:26:24,608 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-03-14 00:26:24,625 [16] ERROR Photon.SocketServer.ApplicationBase - System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at FantasyOfSango.Threads.SyncPlayerTransformThreads.Update() in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Threads\SyncPlayerTransformThreads.cs:line 27
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+2023-03-14 00:26:24,752 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-03-14 00:26:24,752 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-03-14 00:57:35,651 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-03-14 00:57:35,666 [1] INFO  FantasyOfSango.SangoServer - Init all Component
+2023-03-14 00:57:35,666 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-03-14 00:57:37,316 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-14 01:00:41,864 [11] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-14 01:00:41,864 [11] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Collections.Generic.Dictionary`2.Remove(TKey key)
+   at FantasyOfSango.Cache.OnlineAccountCache.RemoveOnlineAccount(ClientPeer clientPeer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Cache\OnlineAccountCache.cs:line 59
+   at FantasyOfSango.ClientPeer.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 26
+   at Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+   at Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1()
+   at ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action)
+2023-03-14 01:00:54,882 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-03-14 01:00:54,890 [16] ERROR Photon.SocketServer.ApplicationBase - System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at FantasyOfSango.Threads.SyncPlayerTransformThreads.Update() in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Threads\SyncPlayerTransformThreads.cs:line 27
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+2023-03-14 01:00:54,907 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-03-14 01:00:54,907 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-03-14 01:02:23,480 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-03-14 01:02:23,493 [1] INFO  FantasyOfSango.SangoServer - Init all Component
+2023-03-14 01:02:23,494 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-03-14 01:02:23,509 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-03-14 01:02:23,513 [12] ERROR Photon.SocketServer.ApplicationBase - System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at FantasyOfSango.Threads.SyncPlayerTransformThreads.Update() in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Threads\SyncPlayerTransformThreads.cs:line 24
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+2023-03-14 01:02:23,536 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-03-14 01:02:23,536 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
+2023-03-14 02:08:42,946 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-03-14 02:08:42,959 [1] INFO  FantasyOfSango.SangoServer - Init all Component
+2023-03-14 02:08:42,960 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-03-14 02:10:02,593 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-14 02:10:15,277 [13] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:59800, Data: F3-02-08-00-02-0A-69-00-00-00-01-00-73-00-0B-54-65-73-74-41-63-63-6F-75-6E-74,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at FantasyOfSango.Cache.OnlineAccountCache.SetOnlineAvaterIndex(String account, AvaterCode avater) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Cache\OnlineAccountCache.cs:line 167
+   at FantasyOfSango.Handler.ChooseAvaterHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\ChooseAvaterHandler.cs:line 21
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-03-14 02:10:15,298 [13] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:59800, Data: F3-02-08-00-02-0A-69-00-00-00-01-00-73-00-0B-54-65-73-74-41-63-63-6F-75-6E-74,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at FantasyOfSango.Cache.OnlineAccountCache.SetOnlineAvaterIndex(String account, AvaterCode avater) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Cache\OnlineAccountCache.cs:line 167
+   at FantasyOfSango.Handler.ChooseAvaterHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\ChooseAvaterHandler.cs:line 21
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-03-14 02:10:15,298 [13] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:59800, Data: F3-02-08-00-02-0A-69-00-00-00-01-00-73-00-0B-54-65-73-74-41-63-63-6F-75-6E-74,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at FantasyOfSango.Cache.OnlineAccountCache.SetOnlineAvaterIndex(String account, AvaterCode avater) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Cache\OnlineAccountCache.cs:line 167
+   at FantasyOfSango.Handler.ChooseAvaterHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\ChooseAvaterHandler.cs:line 21
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-03-14 02:10:48,571 [13] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:59800, Data: F3-02-08-00-02-0A-69-00-00-00-00-00-73-00-0B-54-65-73-74-41-63-63-6F-75-6E-74,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at FantasyOfSango.Cache.OnlineAccountCache.SetOnlineAvaterIndex(String account, AvaterCode avater) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Cache\OnlineAccountCache.cs:line 167
+   at FantasyOfSango.Handler.ChooseAvaterHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\ChooseAvaterHandler.cs:line 21
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-03-14 02:10:48,571 [13] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:59800, Data: F3-02-08-00-02-0A-69-00-00-00-00-00-73-00-0B-54-65-73-74-41-63-63-6F-75-6E-74,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at FantasyOfSango.Cache.OnlineAccountCache.SetOnlineAvaterIndex(String account, AvaterCode avater) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Cache\OnlineAccountCache.cs:line 167
+   at FantasyOfSango.Handler.ChooseAvaterHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\ChooseAvaterHandler.cs:line 21
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-03-14 02:10:48,572 [13] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:59800, Data: F3-02-08-00-02-0A-69-00-00-00-00-00-73-00-0B-54-65-73-74-41-63-63-6F-75-6E-74,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at FantasyOfSango.Cache.OnlineAccountCache.SetOnlineAvaterIndex(String account, AvaterCode avater) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Cache\OnlineAccountCache.cs:line 167
+   at FantasyOfSango.Handler.ChooseAvaterHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\ChooseAvaterHandler.cs:line 21
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-03-14 02:10:50,534 [10] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:59800, Data: F3-02-08-00-02-0A-69-00-00-00-01-00-73-00-0B-54-65-73-74-41-63-63-6F-75-6E-74,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at FantasyOfSango.Cache.OnlineAccountCache.SetOnlineAvaterIndex(String account, AvaterCode avater) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Cache\OnlineAccountCache.cs:line 167
+   at FantasyOfSango.Handler.ChooseAvaterHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\ChooseAvaterHandler.cs:line 21
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-03-14 02:10:50,534 [10] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:59800, Data: F3-02-08-00-02-0A-69-00-00-00-01-00-73-00-0B-54-65-73-74-41-63-63-6F-75-6E-74,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at FantasyOfSango.Cache.OnlineAccountCache.SetOnlineAvaterIndex(String account, AvaterCode avater) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Cache\OnlineAccountCache.cs:line 167
+   at FantasyOfSango.Handler.ChooseAvaterHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\ChooseAvaterHandler.cs:line 21
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-03-14 02:10:53,016 [11] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:0,ip:127.0.0.1:59800, Data: F3-02-08-00-02-0A-69-00-00-00-00-00-73-00-0B-54-65-73-74-41-63-63-6F-75-6E-74,
+Exception:System.NullReferenceException: Object reference not set to an instance of an object.
+   at FantasyOfSango.Cache.OnlineAccountCache.SetOnlineAvaterIndex(String account, AvaterCode avater) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Cache\OnlineAccountCache.cs:line 167
+   at FantasyOfSango.Handler.ChooseAvaterHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Handler\ChooseAvaterHandler.cs:line 21
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 37
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-03-14 02:11:02,641 [11] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-03-14 02:11:02,642 [11] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Collections.Generic.Dictionary`2.Remove(TKey key)
+   at FantasyOfSango.Cache.OnlineAccountCache.RemoveOnlineAccount(ClientPeer clientPeer) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Cache\OnlineAccountCache.cs:line 59
+   at FantasyOfSango.ClientPeer.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\ClientPeer.cs:line 26
+   at Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+   at Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1()
+   at ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action)
+2023-03-14 02:18:26,314 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=SangoTest
+2023-03-14 02:18:26,327 [16] ERROR Photon.SocketServer.ApplicationBase - System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at FantasyOfSango.Threads.SyncPlayerTransformThreads.Update() in D:\FantasyOfSango\Server\TestServer\TestServerScript\FantasyOfSango\FantasyOfSango\Threads\SyncPlayerTransformThreads.cs:line 27
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+2023-03-14 02:18:26,342 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-03-14 02:18:26,342 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=SangoTest
