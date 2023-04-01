@@ -1,0 +1,5 @@
+2023-03-24 18:35:32,297 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-03-24 18:35:32,311 [1] INFO  FantasyOfSango.SangoServer - Init all Component
+2023-03-24 18:35:32,311 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=SangoTest; AppPath=D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-03-24 18:35:36,308 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-03-24 18:37:52,819 [14] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
