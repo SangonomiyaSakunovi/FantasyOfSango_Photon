@@ -4,3 +4,9 @@
 12660: 15:00:26.682 - Will produce at most: 10 crash dumps
 12660: 15:00:26.682 - Service shutting down
 12660: 15:00:26.683 - Service shut down complete
+17312: 18:28:40.740 - ---
+17312: 18:28:40.740 - Service: "Photon Socket Server" starting
+17312: 18:28:40.740 - Config File: D:\FantasyOfSango\Server\TestServer\Photon_v4\FantasyOfSango_Photon\deploy\bin_Win64\PhotonServer.config
+17312: 18:28:40.744 - Will produce at most: 10 crash dumps
+17312: 18:28:40.744 - Service shutting down
+17312: 18:28:40.746 - Service shut down complete
