@@ -1,0 +1,12 @@
+34344: 00:58:52.444 - ---
+34344: 00:58:52.444 - Service: "Photon Socket Server" starting
+34344: 00:58:52.444 - Config File: E:\FantasyOfSango\FantasyOfSango_Photon\deploy\bin_Win64\PhotonServer.config
+34344: 00:58:52.447 - Will produce at most: 10 crash dumps
+34344: 00:58:52.447 - Service shutting down
+34344: 00:58:52.449 - Service shut down complete
+7692: 04:19:23.843 - ---
+7692: 04:19:23.843 - Service: "Photon Socket Server" starting
+7692: 04:19:23.843 - Config File: E:\FantasyOfSango\FantasyOfSango_Photon\deploy\bin_Win64\PhotonServer.config
+7692: 04:19:23.846 - Will produce at most: 10 crash dumps
+7692: 04:19:23.846 - Service shutting down
+7692: 04:19:23.848 - Service shut down complete

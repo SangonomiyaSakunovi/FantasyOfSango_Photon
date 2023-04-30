@@ -1,0 +1,32 @@
+2023-04-25 00:57:11,361 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-04-25 00:57:11,376 [1] INFO  FantasyOfSango.SangoServer - Init all Component
+2023-04-25 00:57:11,377 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=FSOGameServer; AppPath=E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-04-25 00:57:21,243 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-04-25 00:58:34,139 [7] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-04-25 00:58:52,444 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=FSOGameServer
+2023-04-25 00:58:52,453 [14] ERROR Photon.SocketServer.ApplicationBase - System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at FantasyOfSango.Threads.SyncPlayerTransformThreads.Update() in E:\FantasyOfSango\FantasyOfSango_Server\FantasyOfSango\Threads\SyncPlayerTransformThreads.cs:line 28
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+2023-04-25 00:58:52,570 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-04-25 00:58:52,570 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=FSOGameServer
+2023-04-25 04:15:21,253 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-04-25 04:15:21,268 [1] INFO  FantasyOfSango.SangoServer - Init all Component
+2023-04-25 04:15:21,269 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=FSOGameServer; AppPath=E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-04-25 04:15:35,932 [13] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-04-25 04:16:08,937 [7] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-04-25 04:19:23,849 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=FSOGameServer
+2023-04-25 04:19:23,857 [16] ERROR Photon.SocketServer.ApplicationBase - System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at FantasyOfSango.Threads.SyncPlayerTransformThreads.Update() in E:\FantasyOfSango\FantasyOfSango_Server\FantasyOfSango\Threads\SyncPlayerTransformThreads.cs:line 28
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+2023-04-25 04:19:23,977 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-04-25 04:19:23,977 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=FSOGameServer
