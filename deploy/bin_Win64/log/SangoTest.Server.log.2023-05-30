@@ -1,0 +1,15 @@
+2023-05-30 19:28:27,741 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-05-30 19:28:29,023 [1] INFO  FantasyOfSango.SangoServer - Init all Component
+2023-05-30 19:28:29,024 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=FSOGameServer; AppPath=E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-05-30 19:29:02,633 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-05-30 19:30:30,642 [15] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-05-30 20:54:59,637 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-05-30 20:56:07,495 [11] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-05-30 21:01:52,569 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-05-30 21:03:13,270 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-05-30 21:07:32,188 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-05-30 21:08:38,847 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-05-30 21:12:58,277 [13] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-05-30 21:14:10,749 [13] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-05-30 21:16:12,715 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-05-30 21:18:35,129 [14] INFO  FantasyOfSango.SangoServer - The Client is DisConnect

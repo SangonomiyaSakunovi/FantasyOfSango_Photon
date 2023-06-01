@@ -1,0 +1,20 @@
+2023-05-31 00:43:25,607 [13] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-05-31 00:44:24,706 [13] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-05-31 00:48:25,671 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-05-31 00:51:33,740 [14] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-05-31 01:02:47,746 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-05-31 01:03:54,422 [12] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:8,ip:127.0.0.1:60727, Data: F3-02-09-00-01-0F-73-00-53-7B-22-77-65-61-70-6F-6E-49-64-22-3A-22-53-77-6F-72-64-5F-54-65-73-74-5F-31-22-2C-22-77-65-61-70-6F-6E-4D-6F-64-65-6C-4D-61-74-65-72-69-61-6C-4C-69-73-74-22-3A-5B-5D-2C-22-77-65-61-70-6F-6E-52-61-77-4D-61-74-65-72-69-61-6C-4C-69-73-74-22-3A-5B-5D-7D,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handlers.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in E:\FantasyOfSango\FantasyOfSango_Server\FantasyOfSango\Handlers\DefaultHandler.cs:line 19
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in E:\FantasyOfSango\FantasyOfSango_Server\FantasyOfSango\ClientPeer.cs:line 54
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-05-31 01:05:49,222 [15] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-05-31 01:06:57,189 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-05-31 01:08:03,169 [9] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:ClientPeer,ConnId:9,ip:127.0.0.1:59276, Data: F3-02-09-00-01-0F-73-00-53-7B-22-77-65-61-70-6F-6E-49-64-22-3A-22-53-77-6F-72-64-5F-54-65-73-74-5F-31-22-2C-22-77-65-61-70-6F-6E-4D-6F-64-65-6C-4D-61-74-65-72-69-61-6C-4C-69-73-74-22-3A-5B-5D-2C-22-77-65-61-70-6F-6E-52-61-77-4D-61-74-65-72-69-61-6C-4C-69-73-74-22-3A-5B-5D-7D,
+Exception:System.NotImplementedException: The method or operation is not implemented.
+   at FantasyOfSango.Handlers.DefaultHandler.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters, ClientPeer peer) in E:\FantasyOfSango\FantasyOfSango_Server\FantasyOfSango\Handlers\DefaultHandler.cs:line 19
+   at FantasyOfSango.ClientPeer.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) in E:\FantasyOfSango\FantasyOfSango_Server\FantasyOfSango\ClientPeer.cs:line 54
+   at Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters)
+   at Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures)
+2023-05-31 01:09:02,425 [13] INFO  FantasyOfSango.SangoServer - The Client is DisConnect

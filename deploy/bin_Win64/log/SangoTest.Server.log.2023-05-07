@@ -1,0 +1,31 @@
+2023-05-07 23:08:38,456 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-05-07 23:08:39,802 [1] INFO  FantasyOfSango.SangoServer - Init all Component
+2023-05-07 23:08:39,803 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=FSOGameServer; AppPath=E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-05-07 23:09:32,947 [17] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-05-07 23:09:47,727 [14] ERROR Photon.SocketServer.ApplicationBase - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FantasyOfSango.Threads.SyncPlayerTransformThreads.CheckIfTheClientMoved() in E:\FantasyOfSango\FantasyOfSango_Server\FantasyOfSango\Threads\SyncPlayerTransformThreads.cs:line 55
+   at FantasyOfSango.Threads.SyncPlayerTransformThreads.Update() in E:\FantasyOfSango\FantasyOfSango_Server\FantasyOfSango\Threads\SyncPlayerTransformThreads.cs:line 36
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+2023-05-07 23:11:58,515 [7] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-05-07 23:16:30,260 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=FSOGameServer
+2023-05-07 23:16:30,268 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-05-07 23:16:30,268 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=FSOGameServer
+2023-05-07 23:16:57,927 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-05-07 23:16:58,466 [1] INFO  FantasyOfSango.SangoServer - Init all Component
+2023-05-07 23:16:58,466 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=FSOGameServer; AppPath=E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-05-07 23:17:21,594 [7] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-05-07 23:18:15,751 [14] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-05-07 23:22:08,044 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=FSOGameServer
+2023-05-07 23:22:08,048 [18] ERROR Photon.SocketServer.ApplicationBase - System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at FantasyOfSango.Threads.SyncPlayerTransformThreads.Update() in E:\FantasyOfSango\FantasyOfSango_Server\FantasyOfSango\Threads\SyncPlayerTransformThreads.cs:line 35
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+2023-05-07 23:22:08,066 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-05-07 23:22:08,066 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=FSOGameServer

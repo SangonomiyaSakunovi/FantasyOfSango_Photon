@@ -1,0 +1,12 @@
+41904: 23:16:30.260 - ---
+41904: 23:16:30.260 - Service: "Photon Socket Server" starting
+41904: 23:16:30.260 - Config File: E:\FantasyOfSango\FantasyOfSango_Photon\deploy\bin_Win64\PhotonServer.config
+41904: 23:16:30.262 - Will produce at most: 10 crash dumps
+41904: 23:16:30.262 - Service shutting down
+41904: 23:16:30.263 - Service shut down complete
+37864: 23:22:08.043 - ---
+37864: 23:22:08.043 - Service: "Photon Socket Server" starting
+37864: 23:22:08.043 - Config File: E:\FantasyOfSango\FantasyOfSango_Photon\deploy\bin_Win64\PhotonServer.config
+37864: 23:22:08.044 - Will produce at most: 10 crash dumps
+37864: 23:22:08.044 - Service shutting down
+37864: 23:22:08.046 - Service shut down complete
