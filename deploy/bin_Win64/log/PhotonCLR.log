@@ -16048,3 +16048,223 @@ System.AppDomainUnloadedException: Attempted to access an unloaded AppDomain.
 System.AppDomainUnloadedException: Attempted to access an unloaded AppDomain.
 2023-06-02 01:55:47,397 [13] ERROR PhotonHostRuntime.PhotonDomainManager - UnhandledException: 
 System.AppDomainUnloadedException: Attempted to access an unloaded AppDomain.
+2023-06-03 18:38:05,463 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2023-06-03 18:38:05,475 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2023-06-03 18:38:05,477 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2023-06-03 18:38:05,862 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Type:Standard; Plan:Free; Expiration: never; floating license: yes; max connections: 100; valid IPs: any; status:Licensed
+2023-06-03 18:38:07,382 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'FSOGameServer' , assemblyName = 'FantasyOfSango'
+2023-06-03 18:38:07,391 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy'
+2023-06-03 18:38:07,391 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango\bin;bin_Win64;Shared;'
+2023-06-03 18:38:07,391 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango\bin\FantasyOfSango.dll.config'
+2023-06-03 18:38:07,391 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango\bin\Cache'
+2023-06-03 18:38:08,255 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango'
+2023-06-03 18:38:08,255 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango\bin'
+2023-06-03 18:38:08,255 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy'
+2023-06-03 18:38:08,255 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\bin_Win64\log'
+2023-06-03 18:38:08,410 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: FantasyOfSango, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/FantasyOfSango.DLL
+2023-06-03 18:38:08,410 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2023-06-03 18:38:08,723 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/Photon.SocketServer.DLL
+2023-06-03 18:38:08,883 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/ExitGamesLibs.DLL
+2023-06-03 18:38:08,952 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: SangoCommon, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/SangoCommon.DLL
+2023-06-03 18:38:08,958 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'FSOGameServer', assemblyName = 'FantasyOfSango', typeName = 'FantasyOfSango.SangoServer'
+2023-06-03 18:38:08,959 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'CounterPublisher' , assemblyName = 'CounterPublisher'
+2023-06-03 18:38:08,960 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy'
+2023-06-03 18:38:08,960 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\CounterPublisher\bin;bin_Win64;Shared;'
+2023-06-03 18:38:08,960 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\CounterPublisher\bin\CounterPublisher.dll.config'
+2023-06-03 18:38:08,960 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\CounterPublisher\bin\Cache'
+2023-06-03 18:38:09,459 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\CounterPublisher'
+2023-06-03 18:38:09,460 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\CounterPublisher\bin'
+2023-06-03 18:38:09,460 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy'
+2023-06-03 18:38:09,460 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\bin_Win64\log'
+2023-06-03 18:38:09,640 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: CounterPublisher, Version=4.0.28.11221, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/CounterPublisher/bin/CounterPublisher.DLL
+2023-06-03 18:38:09,640 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2023-06-03 18:38:09,947 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/CounterPublisher/bin/Photon.SocketServer.DLL
+2023-06-03 18:38:10,102 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/CounterPublisher/bin/ExitGamesLibs.DLL
+2023-06-03 18:38:10,106 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'CounterPublisher', assemblyName = 'CounterPublisher', typeName = 'Photon.CounterPublisher.Application'
+2023-06-03 18:38:10,155 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'CounterPublisher', DomainId='3' -- calling Application.Setup
+2023-06-03 18:38:10,181 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/CounterPublisher/bin/ExitGames.Logging.Log4Net.DLL
+2023-06-03 18:38:13,445 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'FSOGameServer', DomainId='2' -- calling Application.Setup
+2023-06-03 18:38:13,466 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/ExitGames.Logging.Log4Net.DLL
+2023-06-03 18:38:13,752 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MongoDB.Driver, Version=2.19.1.0, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/MongoDB.Driver.DLL
+2023-06-03 18:38:13,989 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MongoDB.Driver.Core, Version=2.19.1.0, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/MongoDB.Driver.Core.DLL
+2023-06-03 18:38:14,174 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MongoDB.Bson, Version=2.19.1.0, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/MongoDB.Bson.DLL
+2023-06-03 18:38:14,440 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: DnsClient, Version=1.6.1.0, Culture=neutral, PublicKeyToken=4574bb5573c51424 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/DnsClient.DLL
+2023-06-03 18:38:14,635 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MongoDB.Libmongocrypt, Version=1.7.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/MongoDB.Libmongocrypt.DLL
+2023-06-03 18:38:14,869 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Microsoft.Extensions.Logging.Abstractions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/Microsoft.Extensions.Logging.Abstractions.DLL
+2023-06-03 18:38:14,872 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/netstandard/v4.0_2.0.0.0__cc7b13ffcd2ddd51/netstandard.dll
+2023-06-03 18:38:14,878 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyResolveEvent: ApplicationName = 'FSOGameServer', DomainId='2', args.Name='MongoDB.Driver.Legacy'
+2023-06-03 18:38:14,879 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyResolveEvent: ApplicationName = 'FSOGameServer', DomainId='2', args.Name='MongoDB.Driver.Legacy'
+2023-06-03 18:38:14,884 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - TypeResolveHandler: ApplicationName = 'FSOGameServer', DomainId='2', args.Name='Mono.Runtime'
+2023-06-03 18:38:15,058 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'DefaultDomain', DomainId='1'
+2023-06-03 18:38:57,498 [10] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Runtime.CompilerServices.Unsafe.DLL
+2023-06-03 18:38:57,954 [18] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Text.Json, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Text.Json.DLL
+2023-06-03 18:38:58,064 [18] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Microsoft.Bcl.AsyncInterfaces, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/Microsoft.Bcl.AsyncInterfaces.DLL
+2023-06-03 18:38:58,933 [18] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Memory.DLL
+2023-06-03 18:38:58,936 [18] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.ValueTuple, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.ValueTuple/v4.0_4.0.0.0__cc7b13ffcd2ddd51/System.ValueTuple.dll
+2023-06-03 18:38:59,133 [14] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Text.Encodings.Web, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Text.Encodings.Web.DLL
+2023-06-03 18:38:59,288 [18] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Threading.Tasks.Extensions.DLL
+2023-06-03 18:38:59,313 [18] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Buffers.DLL
+2023-06-03 18:39:05,485 [11] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Numerics.Vectors.DLL
+2023-06-04 01:38:43,370 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2023-06-04 01:38:43,400 [18] ERROR PhotonHostRuntime.PhotonDomainManager - UnhandledException: 
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at FantasyOfSango.Threads.SyncPlayerTransformThreads.Update() in E:\FantasyOfSango\FantasyOfSango_Server\FantasyOfSango\Threads\SyncPlayerTransformThreads.cs:line 35
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+2023-06-04 01:38:43,515 [19] ERROR PhotonHostRuntime.PhotonDomainManager - UnhandledException: 
+System.AppDomainUnloadedException: Attempted to access an unloaded AppDomain.
+2023-06-04 01:38:43,515 [16] ERROR PhotonHostRuntime.PhotonDomainManager - UnhandledException: 
+System.AppDomainUnloadedException: Attempted to access an unloaded AppDomain.
+2023-06-04 01:38:47,388 [17] ERROR PhotonHostRuntime.PhotonDomainManager - UnhandledException: 
+System.AppDomainUnloadedException: Attempted to access an unloaded AppDomain.
+2023-06-05 17:13:49,562 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2023-06-05 17:13:49,575 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2023-06-05 17:13:49,576 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2023-06-05 17:13:50,029 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Type:Standard; Plan:Free; Expiration: never; floating license: yes; max connections: 100; valid IPs: any; status:Licensed
+2023-06-05 17:13:51,844 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'FSOGameServer' , assemblyName = 'FantasyOfSango'
+2023-06-05 17:13:51,851 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy'
+2023-06-05 17:13:51,851 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango\bin;bin_Win64;Shared;'
+2023-06-05 17:13:51,851 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango\bin\FantasyOfSango.dll.config'
+2023-06-05 17:13:51,851 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango\bin\Cache'
+2023-06-05 17:13:52,331 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango'
+2023-06-05 17:13:52,331 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango\bin'
+2023-06-05 17:13:52,332 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy'
+2023-06-05 17:13:52,332 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\bin_Win64\log'
+2023-06-05 17:13:52,519 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: FantasyOfSango, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/FantasyOfSango.DLL
+2023-06-05 17:13:52,520 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2023-06-05 17:13:52,831 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/Photon.SocketServer.DLL
+2023-06-05 17:13:52,996 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/ExitGamesLibs.DLL
+2023-06-05 17:13:53,060 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: SangoCommon, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/SangoCommon.DLL
+2023-06-05 17:13:53,066 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'FSOGameServer', assemblyName = 'FantasyOfSango', typeName = 'FantasyOfSango.SangoServer'
+2023-06-05 17:13:53,067 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'CounterPublisher' , assemblyName = 'CounterPublisher'
+2023-06-05 17:13:53,068 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy'
+2023-06-05 17:13:53,068 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\CounterPublisher\bin;bin_Win64;Shared;'
+2023-06-05 17:13:53,068 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\CounterPublisher\bin\CounterPublisher.dll.config'
+2023-06-05 17:13:53,068 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\CounterPublisher\bin\Cache'
+2023-06-05 17:13:53,541 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\CounterPublisher'
+2023-06-05 17:13:53,541 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\CounterPublisher\bin'
+2023-06-05 17:13:53,541 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy'
+2023-06-05 17:13:53,543 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\bin_Win64\log'
+2023-06-05 17:13:53,712 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: CounterPublisher, Version=4.0.28.11221, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/CounterPublisher/bin/CounterPublisher.DLL
+2023-06-05 17:13:53,713 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2023-06-05 17:13:54,021 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/CounterPublisher/bin/Photon.SocketServer.DLL
+2023-06-05 17:13:54,215 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/CounterPublisher/bin/ExitGamesLibs.DLL
+2023-06-05 17:13:54,219 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'CounterPublisher', assemblyName = 'CounterPublisher', typeName = 'Photon.CounterPublisher.Application'
+2023-06-05 17:13:54,259 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'CounterPublisher', DomainId='3' -- calling Application.Setup
+2023-06-05 17:13:54,287 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/CounterPublisher/bin/ExitGames.Logging.Log4Net.DLL
+2023-06-05 17:13:57,068 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'FSOGameServer', DomainId='2' -- calling Application.Setup
+2023-06-05 17:13:57,079 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/ExitGames.Logging.Log4Net.DLL
+2023-06-05 17:13:57,339 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MongoDB.Driver, Version=2.19.1.0, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/MongoDB.Driver.DLL
+2023-06-05 17:13:57,568 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MongoDB.Driver.Core, Version=2.19.1.0, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/MongoDB.Driver.Core.DLL
+2023-06-05 17:13:57,754 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MongoDB.Bson, Version=2.19.1.0, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/MongoDB.Bson.DLL
+2023-06-05 17:13:57,995 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: DnsClient, Version=1.6.1.0, Culture=neutral, PublicKeyToken=4574bb5573c51424 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/DnsClient.DLL
+2023-06-05 17:13:58,168 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MongoDB.Libmongocrypt, Version=1.7.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/MongoDB.Libmongocrypt.DLL
+2023-06-05 17:13:58,412 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Microsoft.Extensions.Logging.Abstractions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/Microsoft.Extensions.Logging.Abstractions.DLL
+2023-06-05 17:13:58,415 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/netstandard/v4.0_2.0.0.0__cc7b13ffcd2ddd51/netstandard.dll
+2023-06-05 17:13:58,420 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyResolveEvent: ApplicationName = 'FSOGameServer', DomainId='2', args.Name='MongoDB.Driver.Legacy'
+2023-06-05 17:13:58,421 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyResolveEvent: ApplicationName = 'FSOGameServer', DomainId='2', args.Name='MongoDB.Driver.Legacy'
+2023-06-05 17:13:58,426 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - TypeResolveHandler: ApplicationName = 'FSOGameServer', DomainId='2', args.Name='Mono.Runtime'
+2023-06-05 17:13:58,604 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'DefaultDomain', DomainId='1'
+2023-06-05 17:14:28,232 [12] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Runtime.CompilerServices.Unsafe.DLL
+2023-06-05 17:14:28,692 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Text.Json, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Text.Json.DLL
+2023-06-05 17:14:28,806 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Microsoft.Bcl.AsyncInterfaces, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/Microsoft.Bcl.AsyncInterfaces.DLL
+2023-06-05 17:14:29,625 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Memory.DLL
+2023-06-05 17:14:29,627 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.ValueTuple, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.ValueTuple/v4.0_4.0.0.0__cc7b13ffcd2ddd51/System.ValueTuple.dll
+2023-06-05 17:14:29,838 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Text.Encodings.Web, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Text.Encodings.Web.DLL
+2023-06-05 17:14:30,000 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Threading.Tasks.Extensions.DLL
+2023-06-05 17:14:30,007 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Buffers.DLL
+2023-06-05 17:14:35,800 [12] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Numerics.Vectors.DLL
+2023-06-05 22:11:07,583 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2023-06-05 22:11:07,595 [15] ERROR PhotonHostRuntime.PhotonDomainManager - UnhandledException: 
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at FantasyOfSango.Threads.SyncPlayerTransformThreads.Update() in E:\FantasyOfSango\FantasyOfSango_Server\FantasyOfSango\Threads\SyncPlayerTransformThreads.cs:line 35
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+2023-06-05 22:11:07,621 [13] ERROR PhotonHostRuntime.PhotonDomainManager - UnhandledException: 
+System.AppDomainUnloadedException: Attempted to access an unloaded AppDomain.
+2023-06-05 22:11:07,622 [16] ERROR PhotonHostRuntime.PhotonDomainManager - UnhandledException: 
+System.AppDomainUnloadedException: Attempted to access an unloaded AppDomain.
+2023-06-05 22:11:10,153 [14] ERROR PhotonHostRuntime.PhotonDomainManager - UnhandledException: 
+System.AppDomainUnloadedException: Attempted to access an unloaded AppDomain.
+2023-06-05 22:11:27,065 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2023-06-05 22:11:27,079 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2023-06-05 22:11:27,080 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2023-06-05 22:11:27,388 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Type:Standard; Plan:Free; Expiration: never; floating license: yes; max connections: 100; valid IPs: any; status:Licensed
+2023-06-05 22:11:29,799 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'FSOGameServer' , assemblyName = 'FantasyOfSango'
+2023-06-05 22:11:29,799 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy'
+2023-06-05 22:11:29,799 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango\bin;bin_Win64;Shared;'
+2023-06-05 22:11:29,799 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango\bin\FantasyOfSango.dll.config'
+2023-06-05 22:11:29,801 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango\bin\Cache'
+2023-06-05 22:11:30,012 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango'
+2023-06-05 22:11:30,012 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango\bin'
+2023-06-05 22:11:30,012 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy'
+2023-06-05 22:11:30,012 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\bin_Win64\log'
+2023-06-05 22:11:30,169 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: FantasyOfSango, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/FantasyOfSango.DLL
+2023-06-05 22:11:30,170 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2023-06-05 22:11:30,270 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/Photon.SocketServer.DLL
+2023-06-05 22:11:30,320 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/ExitGamesLibs.DLL
+2023-06-05 22:11:30,391 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: SangoCommon, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/SangoCommon.DLL
+2023-06-05 22:11:30,396 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'FSOGameServer', assemblyName = 'FantasyOfSango', typeName = 'FantasyOfSango.SangoServer'
+2023-06-05 22:11:30,398 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'CounterPublisher' , assemblyName = 'CounterPublisher'
+2023-06-05 22:11:30,398 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy'
+2023-06-05 22:11:30,398 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\CounterPublisher\bin;bin_Win64;Shared;'
+2023-06-05 22:11:30,398 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\CounterPublisher\bin\CounterPublisher.dll.config'
+2023-06-05 22:11:30,398 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\CounterPublisher\bin\Cache'
+2023-06-05 22:11:30,591 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\CounterPublisher'
+2023-06-05 22:11:30,591 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\CounterPublisher\bin'
+2023-06-05 22:11:30,592 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy'
+2023-06-05 22:11:30,592 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\FantasyOfSango\FantasyOfSango_Photon\deploy\bin_Win64\log'
+2023-06-05 22:11:30,612 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: CounterPublisher, Version=4.0.28.11221, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/CounterPublisher/bin/CounterPublisher.DLL
+2023-06-05 22:11:30,612 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2023-06-05 22:11:30,714 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/CounterPublisher/bin/Photon.SocketServer.DLL
+2023-06-05 22:11:30,768 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/CounterPublisher/bin/ExitGamesLibs.DLL
+2023-06-05 22:11:30,771 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'CounterPublisher', assemblyName = 'CounterPublisher', typeName = 'Photon.CounterPublisher.Application'
+2023-06-05 22:11:30,797 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'CounterPublisher', DomainId='3' -- calling Application.Setup
+2023-06-05 22:11:30,827 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/CounterPublisher/bin/ExitGames.Logging.Log4Net.DLL
+2023-06-05 22:11:33,794 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'FSOGameServer', DomainId='2' -- calling Application.Setup
+2023-06-05 22:11:33,800 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/ExitGames.Logging.Log4Net.DLL
+2023-06-05 22:11:33,889 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MongoDB.Driver, Version=2.19.1.0, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/MongoDB.Driver.DLL
+2023-06-05 22:11:33,898 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MongoDB.Driver.Core, Version=2.19.1.0, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/MongoDB.Driver.Core.DLL
+2023-06-05 22:11:33,905 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MongoDB.Bson, Version=2.19.1.0, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/MongoDB.Bson.DLL
+2023-06-05 22:11:34,013 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: DnsClient, Version=1.6.1.0, Culture=neutral, PublicKeyToken=4574bb5573c51424 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/DnsClient.DLL
+2023-06-05 22:11:34,060 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MongoDB.Libmongocrypt, Version=1.7.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/MongoDB.Libmongocrypt.DLL
+2023-06-05 22:11:34,176 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Microsoft.Extensions.Logging.Abstractions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/Microsoft.Extensions.Logging.Abstractions.DLL
+2023-06-05 22:11:34,178 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/netstandard/v4.0_2.0.0.0__cc7b13ffcd2ddd51/netstandard.dll
+2023-06-05 22:11:34,183 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyResolveEvent: ApplicationName = 'FSOGameServer', DomainId='2', args.Name='MongoDB.Driver.Legacy'
+2023-06-05 22:11:34,184 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyResolveEvent: ApplicationName = 'FSOGameServer', DomainId='2', args.Name='MongoDB.Driver.Legacy'
+2023-06-05 22:11:34,188 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - TypeResolveHandler: ApplicationName = 'FSOGameServer', DomainId='2', args.Name='Mono.Runtime'
+2023-06-05 22:11:34,328 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'DefaultDomain', DomainId='1'
+2023-06-05 22:12:06,506 [16] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Runtime.CompilerServices.Unsafe.DLL
+2023-06-05 22:12:06,692 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Text.Json, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Text.Json.DLL
+2023-06-05 22:12:06,733 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Microsoft.Bcl.AsyncInterfaces, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/Microsoft.Bcl.AsyncInterfaces.DLL
+2023-06-05 22:12:07,030 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Memory.DLL
+2023-06-05 22:12:07,032 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.ValueTuple, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///C:/WINDOWS/Microsoft.Net/assembly/GAC_MSIL/System.ValueTuple/v4.0_4.0.0.0__cc7b13ffcd2ddd51/System.ValueTuple.dll
+2023-06-05 22:12:07,125 [14] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Text.Encodings.Web, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Text.Encodings.Web.DLL
+2023-06-05 22:12:07,202 [14] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Threading.Tasks.Extensions.DLL
+2023-06-05 22:12:07,208 [14] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Buffers.DLL
+2023-06-05 22:12:10,210 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a from file:///E:/FantasyOfSango/FantasyOfSango_Photon/deploy/FantasyOfSango/bin/System.Numerics.Vectors.DLL
+2023-06-06 00:15:04,039 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2023-06-06 00:15:04,156 [14] ERROR PhotonHostRuntime.PhotonDomainManager - UnhandledException: 
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Monitor.Enter(Object obj)
+   at FantasyOfSango.Caches.OnlineAccountCache.GetAllOnlinePlayerClientPeerList(String locker) in E:\FantasyOfSango\FantasyOfSango_Server\FantasyOfSango\Caches\OnlineAccountCache.cs:line 186
+   at FantasyOfSango.Threads.SyncPlayerTransformThreads.CheckIfTheClientMoved() in E:\FantasyOfSango\FantasyOfSango_Server\FantasyOfSango\Threads\SyncPlayerTransformThreads.cs:line 49
+   at FantasyOfSango.Threads.SyncPlayerTransformThreads.Update() in E:\FantasyOfSango\FantasyOfSango_Server\FantasyOfSango\Threads\SyncPlayerTransformThreads.cs:line 36
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+2023-06-06 00:15:04,181 [15] ERROR PhotonHostRuntime.PhotonDomainManager - UnhandledException: 
+System.AppDomainUnloadedException: Attempted to access an unloaded AppDomain.
+2023-06-06 00:15:04,181 [12] ERROR PhotonHostRuntime.PhotonDomainManager - UnhandledException: 
+System.AppDomainUnloadedException: Attempted to access an unloaded AppDomain.
+2023-06-06 00:15:05,102 [13] ERROR PhotonHostRuntime.PhotonDomainManager - UnhandledException: 
+System.AppDomainUnloadedException: Attempted to access an unloaded AppDomain.

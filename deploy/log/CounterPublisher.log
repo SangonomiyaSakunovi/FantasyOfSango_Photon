@@ -736,3 +736,15 @@
 2023-06-02 01:49:06,771 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
 2023-06-02 01:55:39,704 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=CounterPublisher
 2023-06-02 01:55:39,707 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=CounterPublisher
+2023-06-03 18:38:13,420 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=CounterPublisher; AppPath=E:\FantasyOfSango\FantasyOfSango_Photon\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2023-06-03 18:38:13,445 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-06-04 01:38:43,366 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=CounterPublisher
+2023-06-04 01:38:43,375 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=CounterPublisher
+2023-06-05 17:13:57,046 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=CounterPublisher; AppPath=E:\FantasyOfSango\FantasyOfSango_Photon\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2023-06-05 17:13:57,067 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-06-05 22:11:07,580 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=CounterPublisher
+2023-06-05 22:11:07,588 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=CounterPublisher
+2023-06-05 22:11:33,777 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=CounterPublisher; AppPath=E:\FantasyOfSango\FantasyOfSango_Photon\deploy\CounterPublisher, Type=Photon.CounterPublisher.Application 
+2023-06-05 22:11:33,793 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2023-06-06 00:15:04,027 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=CounterPublisher
+2023-06-06 00:15:04,042 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=CounterPublisher

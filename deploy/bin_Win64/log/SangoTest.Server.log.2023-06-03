@@ -1,0 +1,22 @@
+2023-06-03 18:38:13,539 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Running
+2023-06-03 18:38:15,046 [1] INFO  FantasyOfSango.SangoServer - Init all Component
+2023-06-03 18:38:15,046 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=FSOGameServer; AppPath=E:\FantasyOfSango\FantasyOfSango_Photon\deploy\FantasyOfSango, Type=FantasyOfSango.SangoServer 
+2023-06-03 18:38:36,180 [13] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-03 18:40:20,538 [10] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-03 18:42:50,147 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-03 18:45:13,255 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-03 18:50:06,629 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-03 18:58:46,995 [11] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-03 20:56:05,724 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-03 20:57:08,406 [11] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-03 21:01:48,349 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-03 21:03:24,854 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-03 21:20:19,797 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-03 21:22:49,330 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-03 21:25:03,106 [13] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-03 21:44:24,540 [14] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-03 21:51:23,764 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-03 21:53:44,868 [14] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-03 21:55:10,732 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-03 22:12:29,081 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-03 23:59:26,552 [15] INFO  FantasyOfSango.SangoServer - New Client connected

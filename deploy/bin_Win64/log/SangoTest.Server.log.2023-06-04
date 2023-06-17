@@ -1,0 +1,32 @@
+2023-06-04 00:03:45,955 [14] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-04 00:13:39,192 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-04 00:21:12,329 [15] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-04 00:26:35,593 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-04 00:29:03,910 [15] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-04 00:30:16,323 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-04 00:31:22,286 [12] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-04 00:32:08,483 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-04 00:34:01,593 [15] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-04 00:36:02,826 [10] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-04 00:43:47,343 [15] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-04 00:58:27,804 [12] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-04 01:05:17,137 [13] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-04 01:06:08,989 [14] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-04 01:07:48,477 [14] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-04 01:11:55,465 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-04 01:13:08,548 [10] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-04 01:14:55,415 [11] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-04 01:15:25,618 [15] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-04 01:17:00,848 [15] INFO  FantasyOfSango.SangoServer - New Client connected
+2023-06-04 01:17:40,284 [15] INFO  FantasyOfSango.SangoServer - The Client is DisConnect
+2023-06-04 01:38:43,369 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=FSOGameServer
+2023-06-04 01:38:43,380 [18] ERROR Photon.SocketServer.ApplicationBase - System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at FantasyOfSango.Threads.SyncPlayerTransformThreads.Update() in E:\FantasyOfSango\FantasyOfSango_Server\FantasyOfSango\Threads\SyncPlayerTransformThreads.cs:line 35
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+2023-06-04 01:38:43,499 [1] INFO  FantasyOfSango.SangoServer - Sango Server is Shut Down
+2023-06-04 01:38:43,499 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=FSOGameServer
